@@ -11,16 +11,16 @@ I will upload a no audio version for those who dont want to install pulseaudio
 
 For Arch Linux
 
-sudo pacman -S noto-fonts-emoji
+  sudo pacman -S noto-fonts-emoji
 
-sudo pacman -S pulseaudio
+  sudo pacman -S pulseaudio
 
 
 For Ubuntu
 
-sudo apt install noto-fonts-emoji
+  sudo apt install noto-fonts-emoji
 
-sudo apt install -S pulseaudio
+  sudo apt install -S pulseaudio
 
 
 If you need it on other distros, you probably know how to install it yourself.
